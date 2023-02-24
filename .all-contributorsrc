@@ -591,6 +591,141 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "chanos-dev",
+      "name": "chanos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48897081?v=4",
+      "profile": "https://chanos-dev.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Jeyoung-Park",
+      "name": "박제영",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59302192?v=4",
+      "profile": "https://lunar-jackrabbit-760.notion.site/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "minsoozz",
+      "name": "minsoozz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52095945?v=4",
+      "profile": "https://minsoolog.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kingsubin",
+      "name": "Subin Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60462865?v=4",
+      "profile": "https://github.com/kingsubin",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jaelyung",
+      "name": "jaelyung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61307199?v=4",
+      "profile": "https://github.com/jaelyung",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Kid-Chang",
+      "name": "박창현",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86464544?v=4",
+      "profile": "https://sharechang.notion.site/s-Resume-ca6fb048b1ed47df86bda6161580afe5",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "PARKGAIN",
+      "name": "PARK GA IN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84880886?v=4",
+      "profile": "https://github.com/PARKGAIN",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sh0116",
+      "name": "KIM SEOKHYEON",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38518675?v=4",
+      "profile": "https://sh0116.github.io/ ",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "junman95",
+      "name": "JUNMAN CHOI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22022776?v=4",
+      "profile": "https://github.com/junman95",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "n-y-kim",
+      "name": "Nayeon Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76769919?v=4",
+      "profile": "https://archive-me-0329.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hyojupark",
+      "name": "hyojupark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59387167?v=4",
+      "profile": "https://hyostech.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kimsh153",
+      "name": "Sunghun Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81547954?v=4",
+      "profile": "https://github.com/kimsh153",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jopemachine",
+      "name": "Gyubong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18283033?v=4",
+      "profile": "https://jopemachine.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "JDhyeok",
+      "name": "JDhyeok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70086033?v=4",
+      "profile": "https://jdhyeok.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "green1052",
+      "name": "green1052",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34261355?v=4",
+      "profile": "https://green1052.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -598,5 +733,6 @@
   "projectOwner": "brave-people",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
